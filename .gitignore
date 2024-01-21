@@ -1,0 +1,9 @@
+/.idea
+/node_modules
+/tmp/
+/vendor/
+composer.lock
+db.json
+main.exe
+main
+main.zip
