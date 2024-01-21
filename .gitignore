@@ -1,9 +1,8 @@
 /.idea
-/node_modules
-/tmp/
-/vendor/
+/.vscode
+/vendor
+*.log
 composer.lock
-db.json
-main.exe
-main
-main.zip
+thinkphp
+.env
+.DS_Store
