@@ -10,6 +10,6 @@
 // +----------------------------------------------------------------------
 use think\facade\Route;
 
-Route::get('china', function () {
+Route::rule('china', function () {
     return 'hello,ThinkPHP88888!';
 });
